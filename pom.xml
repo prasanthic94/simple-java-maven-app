@@ -65,6 +65,6 @@
         </executions>
       </plugin>
     </plugins>
-    <finalname>devopsintegration</fianlname>
+    <finalname>my-app-1.0-SNAPSHOT.jar</fianlname>
   </build>
 </project>
